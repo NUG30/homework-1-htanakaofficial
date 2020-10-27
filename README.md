@@ -1,4 +1,5 @@
-# homework-1-htanakaofficial
+# About Assignment1_INCOMPLETE.ipynb ...
 
-Assignment1.ipynb is the completed assignment. 
-I do not know how to remove Assignment1_INCOMPLETE.ipynb 
+Assignment1_INCOMPLETE.ipynb is not the final submission, and can be ignored. 
+>Unfortunately, I can not figure out how to remove Assignment1_INCOMPLETE.ipynb from the repository
+>>Please grade Assignment1.ipynb.
